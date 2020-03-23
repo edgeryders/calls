@@ -1,0 +1,31 @@
+{
+  "baseUrl" :"https://edgeryders.eu",
+  "configId": 12943,
+  "sections": [
+    {
+      "type": "hero",
+      "background": {
+        "color": "#fafafa"
+      },
+      "title": "Join our Community Calls",
+      "text": {
+        "content": "<p>Every week Edgeryders hosts a group video conference call to welcome new people in the community, as well as get up to speed with what is going on and where help is needed.</p><p>If you know someone who should be in this call but isn’t, go ahead and invite them.",
+        "align": "left"
+      },
+      "image": {
+        "url": "video.svg",
+        "width": 450
+      }
+    },
+    {
+      "type": "events",
+      "title": "Calendar",
+      "tag": "call",
+      "types": {
+        "team": "blue",
+        "outreach": "green",
+        "community": "orangered"
+      }
+    }
+  ]
+}
